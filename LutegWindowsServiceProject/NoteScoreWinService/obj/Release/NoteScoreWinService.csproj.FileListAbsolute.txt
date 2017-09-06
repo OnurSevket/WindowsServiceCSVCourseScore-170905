@@ -1,0 +1,9 @@
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Release\NoteScoreWinService.exe.config
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Release\NoteScoreWinService.exe
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Release\NoteScoreWinService.pdb
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Release\NoteScoreWinService.ProjectInstaller.resources
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Release\NoteScoreWinService.LutegProjectService.resources
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Release\NoteScoreWinService.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Release\NoteScoreWinService.exe
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Release\NoteScoreWinService.pdb
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Release\NoteScoreWinService.csprojResolveAssemblyReference.cache

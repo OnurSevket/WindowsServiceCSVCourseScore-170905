@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteScoreWinService", "NoteScoreWinService\NoteScoreWinService.csproj", "{82743593-7CC7-400E-B99B-904421B35C6C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupLutegService", "SetupLutegService\SetupLutegService.vdproj", "{5E660FE2-1137-44E7-8CAF-FF02FE994A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82743593-7CC7-400E-B99B-904421B35C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82743593-7CC7-400E-B99B-904421B35C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82743593-7CC7-400E-B99B-904421B35C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82743593-7CC7-400E-B99B-904421B35C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E660FE2-1137-44E7-8CAF-FF02FE994A66}.Debug|Any CPU.ActiveCfg = Debug
+		{5E660FE2-1137-44E7-8CAF-FF02FE994A66}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

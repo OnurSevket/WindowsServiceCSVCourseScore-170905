@@ -1,0 +1,34 @@
+c:\users\onur\documents\visual studio 2015\Projects\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe.config
+C:\Users\Onur\documents\visual studio 2015\Projects\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+C:\Users\Onur\documents\visual studio 2015\Projects\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.pdb
+C:\Users\Onur\documents\visual studio 2015\Projects\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.csprojResolveAssemblyReference.cache
+C:\Users\Onur\documents\visual studio 2015\Projects\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.ProjectInstaller.resources
+C:\Users\Onur\documents\visual studio 2015\Projects\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.LutegProjectService.resources
+C:\Users\Onur\documents\visual studio 2015\Projects\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.csproj.GenerateResource.Cache
+C:\Users\Onur\documents\visual studio 2015\Projects\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.exe
+C:\Users\Onur\documents\visual studio 2015\Projects\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.pdb
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe.config
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.exe
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.pdb
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.pdb
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.ProjectInstaller.resources
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.LutegProjectService.resources
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\Belgeler\Visual Studio 2015\Projects\LutegWindowsServiceProject-Deniz\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe.config
+C:\Users\Onur\Desktop\Belgeler\Visual Studio 2015\Projects\LutegWindowsServiceProject-Deniz\NoteScoreWinService\obj\Debug\NoteScoreWinService.exe
+C:\Users\Onur\Desktop\Belgeler\Visual Studio 2015\Projects\LutegWindowsServiceProject-Deniz\NoteScoreWinService\obj\Debug\NoteScoreWinService.pdb
+C:\Users\Onur\Desktop\Belgeler\Visual Studio 2015\Projects\LutegWindowsServiceProject-Deniz\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+C:\Users\Onur\Desktop\Belgeler\Visual Studio 2015\Projects\LutegWindowsServiceProject-Deniz\NoteScoreWinService\bin\Debug\NoteScoreWinService.pdb
+C:\Users\Onur\Desktop\Belgeler\Visual Studio 2015\Projects\LutegWindowsServiceProject-Deniz\NoteScoreWinService\obj\Debug\NoteScoreWinService.ProjectInstaller.resources
+C:\Users\Onur\Desktop\Belgeler\Visual Studio 2015\Projects\LutegWindowsServiceProject-Deniz\NoteScoreWinService\obj\Debug\NoteScoreWinService.LutegProjectService.resources
+C:\Users\Onur\Desktop\Belgeler\Visual Studio 2015\Projects\LutegWindowsServiceProject-Deniz\NoteScoreWinService\obj\Debug\NoteScoreWinService.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\WinServiceProject-OnurŞevketÖZDEMİR\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe.config
+C:\Users\Onur\Desktop\WinServiceProject-OnurŞevketÖZDEMİR\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.exe
+C:\Users\Onur\Desktop\WinServiceProject-OnurŞevketÖZDEMİR\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.pdb
+C:\Users\Onur\Desktop\WinServiceProject-OnurŞevketÖZDEMİR\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+C:\Users\Onur\Desktop\WinServiceProject-OnurŞevketÖZDEMİR\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.pdb
+C:\Users\Onur\Desktop\WinServiceProject-OnurŞevketÖZDEMİR\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.ProjectInstaller.resources
+C:\Users\Onur\Desktop\WinServiceProject-OnurŞevketÖZDEMİR\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.LutegProjectService.resources
+C:\Users\Onur\Desktop\WinServiceProject-OnurŞevketÖZDEMİR\LutegWindowsServiceProject\NoteScoreWinService\obj\Debug\NoteScoreWinService.csproj.GenerateResource.Cache

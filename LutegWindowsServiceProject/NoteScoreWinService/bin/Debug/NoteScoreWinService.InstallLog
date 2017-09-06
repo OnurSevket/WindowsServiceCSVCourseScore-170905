@@ -1,0 +1,168 @@
+﻿'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV1.0 EventLog kaynağı kaldırılıyor.
+LutegServiceV1.0 hizmeti sistemden kaldırılıyor...
+LutegServiceV1.0 hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV1.0 hizmeti yükleniyor...
+LutegServiceV1.0 hizmeti başarıyla yüklendi.
+Application günlüğünde LutegServiceV1.0 EventLog kaynağı oluşturuluyor...
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV1.0 EventLog kaynağı kaldırılıyor.
+LutegServiceV1.0 hizmeti sistemden kaldırılıyor...
+LutegServiceV1.0 hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV1.0 hizmeti yükleniyor...
+Application günlüğünde LutegServiceV1.0 EventLog kaynağı oluşturuluyor...
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV1.0 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV1.0 hizmeti yükleniyor...
+LutegServiceV1.0 hizmeti başarıyla yüklendi.
+Application günlüğünde LutegServiceV1.0 EventLog kaynağı oluşturuluyor...
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.4 EventLog kaynağı kaldırılıyor.
+Uyarı: LutegServiceV2.4 kaynağı yerel makinede kayıtlı değil.
+LutegServiceV2.4 hizmeti sistemden kaldırılıyor...
+System.ServiceProcess.ServiceInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.ComponentModel.Win32Exception: Belirtilen hizmet, yüklü bir hizmet olarak yok
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.5 EventLog kaynağı kaldırılıyor.
+Uyarı: LutegServiceV2.5 kaynağı yerel makinede kayıtlı değil.
+LutegServiceV2.5 hizmeti sistemden kaldırılıyor...
+System.ServiceProcess.ServiceInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.ComponentModel.Win32Exception: Belirtilen hizmet, yüklü bir hizmet olarak yok
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.5 hizmeti yükleniyor...
+Application günlüğünde LutegServiceV2.5 EventLog kaynağı oluşturuluyor...
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.5 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.5 hizmeti yükleniyor...
+LutegServiceV2.5 hizmeti başarıyla yüklendi.
+Application günlüğünde LutegServiceV2.5 EventLog kaynağı oluşturuluyor...
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.5 hizmeti yükleniyor...
+Application günlüğünde LutegServiceV2.5 EventLog kaynağı oluşturuluyor...
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.5 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.5 hizmeti yükleniyor...
+LutegServiceV2.5 hizmeti başarıyla yüklendi.
+Application günlüğünde LutegServiceV2.5 EventLog kaynağı oluşturuluyor...
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.5 hizmeti yükleniyor...
+LutegServiceV2.5 hizmeti başarıyla yüklendi.
+Application günlüğünde LutegServiceV2.5 EventLog kaynağı oluşturuluyor...
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.5 hizmeti yükleniyor...
+LutegServiceV2.5 hizmeti başarıyla yüklendi.
+Application günlüğünde LutegServiceV2.5 EventLog kaynağı oluşturuluyor...
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
+LutegServiceV2.5 hizmeti yükleniyor...
+LutegServiceV2.5 hizmeti başarıyla yüklendi.
+Application günlüğünde LutegServiceV2.5 EventLog kaynağı oluşturuluyor...
+'C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.InstallLog
+   assemblypath = C:\Users\Onur\Desktop\LutegWindowsServiceProject\NoteScoreWinService\bin\Debug\NoteScoreWinService.exe
